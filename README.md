@@ -7,4 +7,4 @@ The platform I got this dataset from is a popular platform used for users to rat
 
 The link to my dataset: https://www.kaggle.com/datasets/omarhanyy/imdb-top-1000/
 An additional link: https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating
-The MIT Licnese: https://opensource.org/license/mit/
+
