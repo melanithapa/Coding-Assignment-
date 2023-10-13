@@ -1,7 +1,5 @@
 # Coding-Assignment-
-The goal of this project is to collect and extract data from a dataset and then create a graph with it. 
-
-The data I collected includes IMDB top 1,000 movies of all time with attributes such as Title, Certificate, Duration, Genre, etc.
+The goal of this project is to collect and extract data from a dataset and then create a graph with it. The data I collected includes IMDB top 1,000 movies of all time with attributes such as Title, Certificate, Duration, Genre, etc.
 
 Data types: Integers, floats, string
 
