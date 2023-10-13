@@ -3,6 +3,8 @@ The goal of this project is to collect and extract data from a dataset and then 
 The data I collected includes IMDB top 1,000 movies of all time with attributes such as Title, Certificate, Duration, Genre, etc.
 
 Data types: Integers, floats, string
+
+
 Genre = categories 
 Duration = Duration of each movie in min
 Rate = Movie rating from 10
