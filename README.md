@@ -5,6 +5,7 @@ The goal of this project is to curate a dataset from the Wikipedia page "List of
 
 
 Dataset Characteristics
+
 Data Points: 200
 
 Data types: Integers, floats, string, date.
