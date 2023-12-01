@@ -5,9 +5,11 @@ In this project, our objective is to curate a dataset from the Wikipedia page "L
 
 
 Dataset Characteristics
-	Data Points: 200
-	Data types: Integers, floats, string, date.
-	Attributes: Country: The name of the country or dependent territory, Population: The total population of the country. Percent of World (Float): The percentage of the world population represented by the country. 		Date (Date): The date associated with the dataset, indicating when the data was collected or relevant.
+Data Points: 200
+
+Data types: Integers, floats, string, date.
+
+Attributes: Country: The name of the country or dependent territory, Population: The total population of the country. Percent of World (Float): The percentage of the world population represented by the country. Date (Date): The date associated with the dataset, indicating when the data was collected or relevant.
 
 
 
