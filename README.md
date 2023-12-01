@@ -4,6 +4,7 @@ The goal of this project is to collect and extract data from a dataset and then 
 In this project, our objective is to curate a dataset from the Wikipedia page "List of countries by population" and analyze it to derive meaningful insights. Our data collection strategy involves web scraping techniques using BeautifulSoup within Google Colab. By obtaining the HTML content from the Wikipedia page, we extract the relevant information and then the HTML table is transformed into a Pandas DataFrame.  We examine the processed data, and create descriptive statistics and visualizations, which offers an understanding of the dataset. The focus of this project is on the reliability and relevance of the dataset. Accuracy and representativeness is important as it ensures that the dataset authentically mirrors the targeted population. Furthermore,  I provide the code implemented in Google Colab, along with saving both the raw and processed datasets as CSV files. Overall, this project shows the process from data collection to analysis.
 
 Dataset Characteristics
+
 Data Points: 200
 
 Data types: Integers, floats, string, date.
